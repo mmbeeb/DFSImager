@@ -1,0 +1,9 @@
+Globals = 107, 112, 481, 433, 
+CommonFile = 132, 132, 682, 463, C
+frmImageForm = 154, 154, 528, 475, , 110, 110, 484, 431, C
+DiskOps = 154, 154, 516, 475, 
+ListViewOps = 176, 176, 682, 621, 
+frmAbout = 154, 154, 704, 485, , 132, 132, 682, 463, C
+SystemFolders = 132, 132, 674, 477, 
+frmViewFile = 0, 0, 554, 339, , 154, 154, 708, 493, C
+DiskTableOps = 0, 0, 563, 323, 
